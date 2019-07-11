@@ -24,4 +24,13 @@ public class A extends Actor
         move(1);
     }
     }    
+           setRotation(90);
+        }
+        if( Greenfoot.isKeyDown( "right" ) ){
+           setRotation(0);
+           move(1);
+        }
+     }
+    
+>>>>>>> 362b75888f5fc487e38b772a0a76a0f54e02223f
 }
