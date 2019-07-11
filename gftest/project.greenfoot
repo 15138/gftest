@@ -4,13 +4,8 @@ class.B.image=frog.png
 class.C.image=spider.png
 editor.fx.0.height=739
 editor.fx.0.width=816
-<<<<<<< HEAD
-editor.fx.0.x=63
-editor.fx.0.y=248
-=======
-editor.fx.0.x=787
-editor.fx.0.y=342
->>>>>>> 40f513dd49c429a7bf421943d5942aaa76c1f514
+editor.fx.0.x=552
+editor.fx.0.y=100
 height=539
 package.numDependencies=0
 package.numTargets=4
@@ -59,10 +54,5 @@ target4.y=0
 version=3.0.0
 width=788
 world.lastInstantiated=MyWorld
-<<<<<<< HEAD
-xPosition=218
-yPosition=141
-=======
-xPosition=36
-yPosition=522
->>>>>>> 40f513dd49c429a7bf421943d5942aaa76c1f514
+xPosition=124
+yPosition=348
